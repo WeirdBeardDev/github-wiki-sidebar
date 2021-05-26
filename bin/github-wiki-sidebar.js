@@ -2,7 +2,7 @@
 
 /**
  * github-wiki-sidebar
- * Generates a GitHub wiki sidebar file with optional ordering an exclude list
+ * Generates a GitHub wiki sidebar file with optional ordering and exclude list
  */
 'use strict';
 const debug = require('debug')('github-wiki-sidebar');
